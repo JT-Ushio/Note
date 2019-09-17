@@ -1,2 +1,2 @@
 1. cognate languages (同源语言)
-2. 
+2. analogous
