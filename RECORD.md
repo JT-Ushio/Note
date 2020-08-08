@@ -5,4 +5,5 @@ fuse: bad mount point `data`: Transport endpoint is not connected
 
 ---
 
-https://stackoverflow.com/questions/62399243/transformerencoder-with-a-padding-mask
+[torch.nn.TransformerEncoder.forward
+-Shap](https://stackoverflow.com/questions/62399243/transformerencoder-with-a-padding-mask)
