@@ -4,3 +4,5 @@ fuse: bad mount point `data`: Transport endpoint is not connected
 **Solution**:  `fusermount -uz data`
 
 ---
+
+https://stackoverflow.com/questions/62399243/transformerencoder-with-a-padding-mask
