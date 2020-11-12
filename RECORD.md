@@ -11,3 +11,4 @@ fuse: bad mount point `data`: Transport endpoint is not connected
 `pip install -i https://pypi.tuna.tsinghua.edu.cn/simple transformers --user --proxy=http://10.176.51.11:3128`
 
 ---
+How to customize your own LR schedule.
