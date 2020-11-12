@@ -12,4 +12,4 @@ fuse: bad mount point `data`: Transport endpoint is not connected
 
 ---
 [How to customize your own LR schedule?](http://katsura-jp.hatenablog.com/entry/2019/01/30/183501)
-[]
+[Tooltorch.optim.lr_scheduler source code analysis](https://blog.csdn.net/qq_28753373/article/details/104976541)
