@@ -15,4 +15,5 @@ fuse: bad mount point `data`: Transport endpoint is not connected
 [**Tool:** torch.optim.lr_scheduler source code analysis](https://blog.csdn.net/qq_28753373/article/details/104976541)
 
 ---
-*Alignment Tools* [giza]
+*Alignment Tools* [giza](https://github.com/moses-smt/giza-pp),  [fast-align](https://www.aclweb.org/anthology/N13-1073/)
+*Alignment Texts* [OpenMT12 Evaluation 5-langs](https://www.nist.gov/itl/iad/mig/openmt12-evaluation-results),  [tatoeba mang-langs](https://tatoeba.org/zh-cn/downloads)
