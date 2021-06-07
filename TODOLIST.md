@@ -1,7 +1,7 @@
 # Todo
 - [ ] Antu Refactoring
 	- [x] io
-	- [ ] nn
+	- [x] nn
 
 - [ ] ACL19 Github
 
