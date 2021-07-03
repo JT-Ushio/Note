@@ -17,3 +17,10 @@ fuse: bad mount point `data`: Transport endpoint is not connected
 ---
 *Alignment Tools* [giza](https://github.com/moses-smt/giza-pp),  [fast-align](https://www.aclweb.org/anthology/N13-1073/)
 *Alignment Texts* [OpenMT12 Evaluation 5-langs](https://www.nist.gov/itl/iad/mig/openmt12-evaluation-results),  [tatoeba mang-langs](https://tatoeba.org/zh-cn/downloads)
+
+---
+Installing cuda and cudnn for non-root users.
+[Tutorials](https://zhuanlan.zhihu.com/p/198161777)
+
+Offline installation of Pytorch and LibTorch.
+[Tutorials](https://www.cnblogs.com/pine-apple/p/14144523.html)
